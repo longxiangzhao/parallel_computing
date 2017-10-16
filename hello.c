@@ -7,4 +7,6 @@ void main()
   printf("hello China");
   printf("hello Beijing");
   printf("hello PKU");
+  wangbaoxiang;
+  lihuiyun;
 }
